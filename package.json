@@ -1,0 +1,14 @@
+{
+  "name": "shopifyy",
+  "version": "1.0.0",
+  "description": "Ecommerce app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Marc Lester Dadula",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
